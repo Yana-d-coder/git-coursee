@@ -1,3 +1,3 @@
 # Git and Github
 
-Create Tik Tok
+Create new app
